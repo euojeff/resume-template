@@ -1,12 +1,25 @@
 # Jobs
-# VP of Global Communications
 - company: FADE-UFPE
   position: Software Engineer
   duration: Oct, 2020 &mdash; Present
   summary: "Currently working as a Senior Software Engineer on innovative projects for Samsung."
 
-# Director of Digital Stratgy
 - company: Consenso Tecnologia
   position: Software Engineer
   duration:  Jun, 2016 &mdash; oct, 2020
   summary: "At Consenso, I developed solutions for the utilities sector (water and gas). I worked as a Senior Software Engineer and worked with all the company's stacks: Monolithic Java Application, Node, Android, and Chatbot."
+
+- company: Stefanini
+  position: Senior Analyst
+  duration:  Jun, 2014 &mdash; dec, 2015
+  summary: "In my previous experience, I worked as a BPM Analyst and Technical Leader in the system integration team for FedEx and Zurich."
+
+- company: Callere Document Solutions
+  position: Software Engineer
+  duration:  Oct, 2012 &mdash; Oct, 2013
+  summary: "I utilized intelligent components to create desktop and web applications with a focus on automating human processes, enabling operational margins for partner businesses."
+
+- company: Stefanini
+  position: Software Engineer
+  duration:  Dec, 2010 &mdash; sep, 2012
+  summary: "n my previous role, I provided support for a productivity management system in Java + Flex and created a B2B Integration Management platform in Java using Jboss Seam."

@@ -9,9 +9,9 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Jefferson O. A. de Araujo"
-resume_title:                   ""
+resume_title:                   "MSc Student"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "joaa@cin.ufpe.br"
@@ -37,9 +37,9 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        false
 resume_section_skills:          false
-resume_section_recognition:     true
+resume_section_recognition:     false
 resume_section_links:           false
-resume_section_associations:    false
+resume_section_associations:    true
 resume_section_interests:       true
 
 # Resume social links
@@ -51,7 +51,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/euojeff"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  #resume_website_url:           "http://joelglovier.com"
   #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
